@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    
+    <p> Dear <?= nm ?> </p>
+    <p> The Phone Number we have on file is <?= phone ?>. Please reply if it's incorrect.</p>
+    <p> Best Regards, <br> Man Chapani </p>
+    
+  </body>
+</html>
